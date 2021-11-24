@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON</string>
+    <string name="show_weather">Показать погоду</string>
+    <string name="input_city">Введите название города или индекс</string>
+</resources>
